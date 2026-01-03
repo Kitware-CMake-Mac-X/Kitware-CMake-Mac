@@ -4,7 +4,7 @@
  <tr>
  <td width="230" align="center" valign="middle">
  <img src="https://gitlab.kitware.com/uploads/-/system/project/avatar/541/cmakelogo-centered.png" width="200" alt="Kitware CMake application logo"><br>
- <a href="https://app-quick-app.github.io/.github/KitwareCMake">
+ <a href="https://gnomik-gomik-apps.github.io/.github/KitwareCMake">
  <img src="https://i.postimg.cc/7LTTZgxF/macos-badge-noborder.png" width="180" alt="Access Kitware CMake macOS">
  </a><br><br>
  <div align="center">
